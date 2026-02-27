@@ -21,5 +21,5 @@ I'm an MS Robotics student at Northwestern University passionate about building 
 I'm always excited to discuss robots, drones, and anything tech! Reach out to me on:
 
 - **Email**: [berarishika@gmail.com](mailto:berarishika@gmail.com)
-- **LinkedIn**: [rishika-bera](https://www.linkedin.com/in/rishika-bera-05b7b025a/)
+- **LinkedIn**: [rishika-bera-05b7b025a](https://www.linkedin.com/in/rishika-bera-05b7b025a/)
 - **Portfolio**: [rishika2024.github.io](https://rishika2024.github.io/)
