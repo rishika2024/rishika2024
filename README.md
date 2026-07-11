@@ -7,14 +7,13 @@
 I'm an MS Robotics student at Northwestern University passionate about building intelligent robotic systems.
 
 ## 🤖 Areas of Expertise
-
-- 💻 **Programming Languages**: C, C++, Python, MATLAB, HTML, CNC G-Code
-- 🦾 **Robotics**: ROS 2, UAV, SLAM, Path Planning, Control Systems, Perception, Sensor Fusion, Motion Planning
-- 🧠 **Machine Learning & AI**: Machine Learning, MLP, CNNs, Autoencoders, Deep Learning, LLMs
+- 💻 **Programming Languages**: C, C++, Python, MATLAB, HTML, CNC G Code
+- 🦾 **Robotics**: ROS 2, Robot Driver Development, UAV, SLAM, Robot Kinematics & Dynamics, Path Planning, Control Systems, PID Control, Closed Loop Feedback, Perception, Sensor Fusion, Motion Planning
+- 🧠 **Machine Learning & AI**: Machine Learning, Deep Learning (MLPs, CNNs, Autoencoders, GANs, Transformers, Diffusion Models), Reinforcement Learning, LLMs, PyTorch
 - 📚 **Software & Libraries**: PX4, MoveIt, OpenCV, Gazebo, RViz, CoppeliaSim, Unity3D, Simulink
-- 🔧 **Tools**: Linux, Git
-- 🔩 **Hardware**: Pixhawk, Franka Arm, Interbotix Arm, RealSense Camera, Arduino, Raspberry Pi
-- 🎨 **Design & Manufacturing**: SolidWorks, Onshape, Blender, 3D Printing, CNC Machine, Soldering
+- 🔧 **Tools**: Linux, Git, SSH
+- 🔩 **Hardware**: Meca500 Arm, Pixhawk, Franka Arm, Interbotix Arm, RealSense Camera, Arduino, Raspberry Pi, Encoders
+- 🎨 **Design & Manufacturing**: SolidWorks, Onshape, Blender, 3D Printing, CNC Machine, Soldering, Wiring
 
 ## 🤝 Let's Connect!
 
